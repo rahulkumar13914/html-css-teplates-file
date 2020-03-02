@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>cts</title>
+<style type=text/css>
+.leftdiv
+{
+float:left;
+}
+.middlediv
+{
+float.left;
+background-colour:gray
+}
+.rightdiv
+{
+float:left;
+}
+div
+{
+padding:1%;
+colour-white;
+background-colour:009900;
+width:30%
+border:solid black;
+}
+</style>
+</head>
+<body>
+<div class="leftdiv">
+<h1>java</h1>
+<p>Thesampled voices are preseding into system</p>
+<h2>HTML</h2>
+<p>hsjjjwjwjw</p>
+</div>
+<div class="middlediv">
+<h1>java</h1>
+<p>Thesampled voices are preseding into system</p>
+<h2>HTML</h2>
+<p>hsjjjwjwjw</p>
+</div>
+<div class="rightdiv">
+<h1>java</h1>
+<p>Thesampled voices are preseding into system</p>
+<h2>HTML</h2>
+<p>hsjjjwjwjw</p>
+</div>
+
+</body>
+
+
+</html>
